@@ -27,6 +27,6 @@ The creation of a virtual environment is not necessary but highly recommended to
 
 ### TODO
 
--   [] Add a way to ask the user to enter parameters about their league;
--   [] Add a way to ask the user to enter connection details and save them to the .env file, so they don't have to touch it;
--   [] Add a way to dynamically choose how to create the schedule: two legs, swiss tournament, NBA schedule, etc.
+-   [ ] Add a way to ask the user to enter parameters about their league;
+-   [ ] Add a way to ask the user to enter connection details and save them to the .env file, so they don't have to touch it;
+-   [ ] Add a way to dynamically choose how to create the schedule: two legs, swiss tournament, NBA schedule, etc.

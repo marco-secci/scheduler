@@ -1,4 +1,4 @@
-# Basketball league scheduler
+# scheduler
 
 ## Files
 
